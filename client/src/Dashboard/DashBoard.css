@@ -1,0 +1,62 @@
+.number_container{
+    width:100%;
+    height: 50%;
+    display: flex;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.number_counter{
+    width: auto;
+    height: auto;
+    font-size: calc(0.05 * (100vw + 100vh));
+    color: white;
+    background-color: #444444;
+    border: 2px solid white;
+    border-radius: 25px;
+    text-align: center;
+    padding: 5%;
+}
+
+.dashboard_button_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+}
+
+.dashboard_button{
+    width: 20%;
+    height: 20%;
+    background-color: #DFDFDF;
+    color: black;
+    font-size: calc(0.04 * 100vh);
+    cursor: pointer;
+    border: 2px solid #000;
+    border-radius: 30px;
+}
+
+.dashboard_button:hover{
+    background-color: #CFCFCF;
+}
+
+.home_button{
+    left: 88vw;
+    width: 10vw;
+    height: 10vh;
+    top: 2vh;
+    background-color: #DFDFDF;
+    color: black;
+    font-size: calc(0.04 * 100vh);
+    cursor: pointer;
+    border: 2px solid #000;
+    border-radius: 30px;
+    position:absolute;
+}
+
+.home_button:hover{
+    background-color: #CFCFCF;
+}

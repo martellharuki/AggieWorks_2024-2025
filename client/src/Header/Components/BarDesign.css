@@ -1,0 +1,71 @@
+.bar_design_container{
+    position: absolute;
+    left: 86vw;
+    top: 0;
+    width: 14vw;
+    height: 22.22vh;
+    display: flex;
+}
+
+.bar_0{
+    margin-left: 6%;
+    width: 8%;
+    height: 83.33%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_1{
+    margin-left: 6%;
+    width: 8%;
+    height: 100%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_2{
+    margin-left: 6%;
+    width: 8%;
+    height: 31.25%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_3{
+    margin-left: 6%;
+    width: 8%;
+    height: 52%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_4{
+    margin-left: 6%;
+    width: 8%;
+    height: 7%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_5{
+    margin-left: 6%;
+    width: 8%;
+    height:92.75%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}
+
+.bar_6{
+    margin-left: 6%;
+    width: 8%;
+    height: 20%;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius: 4vw;
+    background-color: #FFD700;
+}

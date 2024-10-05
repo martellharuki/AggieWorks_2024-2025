@@ -1,0 +1,52 @@
+.App {
+  width:100vw;
+  height: 100vh;
+  background-color: #262626;
+}
+
+.homescreen_clicked_text{
+  width: 60vw;
+  height: 40vh;
+  font-size: calc(0.05 * 100vh);
+  
+  position: absolute;
+  z-index: 101;
+  top: -100vh;
+  left: 20vw;
+  transition: top 0.5s ease;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:white;
+  background-color: #444444;
+
+  border: 3px solid white;
+  border-radius: 50px;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  
+}
+
+.clicked_text_fly_in{
+  top: 30vh;
+}
+
+.clicked_text_fly_out{
+  top: -100vh;
+}
+
+.homescreen_shadow{
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000000;
+  opacity: 0.5;
+  cursor: pointer;
+}

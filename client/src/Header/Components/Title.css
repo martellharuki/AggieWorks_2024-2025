@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.title_container{
+    width: 86%;
+    height: 83.3%;
+    border-bottom-right-radius: 50px;
+    background-color: #585D5E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Great Vibes', cursive, Arial, sans-serif;
+}
+
+.title_text_container{
+    font-size: calc(.1 * 100vh);
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-display: swap;
+}

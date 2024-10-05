@@ -1,0 +1,52 @@
+.AMC_right_container{
+    width: 30%;
+    height: 100%;
+    display: flex;
+}
+
+.AMC_bar_container{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.AMC_right_bar_0{
+    width: 2.6vw;
+    height: 10%;
+    border-top-left-radius: .7788vh;
+    border-bottom-left-radius: .7788vh;
+    margin-top: 1.298vh;
+    background-color: #FFD700;
+}
+.AMC_right_bar_1{
+    width: 2.6vw;
+    height: 10%;
+    border-top-left-radius: .7788vh;
+    border-bottom-left-radius: .7788vh;
+    margin-top: 1.298vh;
+    background-color: #FFD700;
+}
+.AMC_right_bar_2{
+    width: 2.6vw;
+    height: 10%;
+    border-top-left-radius: .7788vh;
+    border-bottom-left-radius: .7788vh;
+    margin-top: 1.298vh;
+    background-color: #FFD700;
+}
+.AMC_right_bar_3{
+    width: 2.6vw;
+    height: 10%;
+    border-top-left-radius: .7788vh;
+    border-bottom-left-radius: .7788vh;
+    margin-top: 1.298vh;
+    background-color: #FFD700;
+}
+.AMC_right_bar_4{
+    width: 2.6vw;
+    height: 10%;
+    border-top-left-radius: .7788vh;
+    border-bottom-left-radius: .7788vh;
+    margin-top: 1.298vh;
+    background-color: #FFD700;
+}
